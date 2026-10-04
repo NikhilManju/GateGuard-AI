@@ -24,4 +24,8 @@ GateGuard AI analyzes flight and gate information, predicts potential conflicts,
 
 ## Project Status
 
-🚧 Currently under development.
+🚀 **Working MVP completed.**
+
+GateGuard AI is a functional prototype demonstrating predictive gate conflict detection, alternative gate evaluation, explainable recommendations, and human-approved gate reassignment.
+
+The project is being developed as a portfolio project and may be extended with additional predictive capabilities and real-time operational data integration in the future.
