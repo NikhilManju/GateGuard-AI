@@ -1,0 +1,9 @@
+flight_id,airline,scheduled_arrival,scheduled_departure,assigned_gate,turnaround_minutes,delay_minutes
+AI101,Air India,10:20,11:40,G1,80,0
+6E202,IndiGo,10:30,11:45,G4,75,5
+EK501,Emirates,10:40,12:10,G2,90,25
+WY601,Oman Air,10:50,12:15,G3,85,0
+QR572,Qatar Airways,09:00,10:20,G5,80,0
+EY301,Etihad Airways,11:10,12:40,G6,90,10
+SQ421,Singapore Airlines,11:50,13:20,G1,90,0
+LH760,Lufthansa,12:20,13:50,G2,90,0

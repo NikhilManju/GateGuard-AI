@@ -1,0 +1,7 @@
+gate_id,gate_type,aircraft_capacity,international_capable
+G1,Standard,Large,Yes
+G2,Standard,Large,Yes
+G3,Standard,Large,Yes
+G4,Standard,Medium,No
+G5,Widebody,Large,Yes
+G6,Widebody,Large,Yes
